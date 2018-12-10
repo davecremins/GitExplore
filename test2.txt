@@ -1,2 +1,4 @@
-NEW CONTEXT - BAM
-Whats the craic
+Going further
+I hope this article helped you to see what’s possible with the `rebase` command. Of course, the best way to learn Git is to use it, but the second best way is to read about it. If you’d like to read more, I highly recommend the Pro Git book – specifically the section about rebase itself. And, because once in a while we all end up in a bad situation, you should probably take a look at Data Recovery in the Maintenance and Data Recovery section. If you’re not into reading the whole documentation, maybe you’d prefer these Git Flight Rules.
+
+Have additional rebase tips or feedback on this post? We’d love to hear them: @aseure or @Algolia. Thanks for reading – and happy Gitting!
